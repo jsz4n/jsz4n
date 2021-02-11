@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [floki io](https://floki.io)
+- 🌱 I teach thing about Programming, Data, Systems.
+- ⚙️  I make things with `py`|`rs`|`js`|`jl`|`c`|`scala`
+
 <!--
 **suzanje/suzanje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
