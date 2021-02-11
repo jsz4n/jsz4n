@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [floki io](https://floki.io)
-- 🌱 I teach thing about Programming, Data, Systems.
+- 🌱 I teach things about Programming, Data , Systems.
 - ⚙️  I make things with `py`|`rs`|`js`|`jl`|`c`|`scala`
 
 <!--
