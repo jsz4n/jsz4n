@@ -4,7 +4,7 @@ I'am jsz4n (suzanje)
 
 - 🔭 I’m currently working at [floki io](https://floki.io)
 - 🌱 I teach things about Programming, Data , Systems.
-- ⚙️  I make things with `py`|`rs`|`js`|`jl`|`c`|`scala`
+- ⚙️  I make things with `py`|`js`|`hs`|`rs`|`jl`|`c`|`scala`
 
 
 <!--
