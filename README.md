@@ -2,9 +2,9 @@
 
 I'am jsz4n (suzanje)
 
-- 🔭 I’m currently working as freelancer and also as partner at [floki io](https://floki.io)
-- 🌱 I teach things about Programming, Data , Systems.
+- 🔭 I’m currently working as freelancer.
 - ⚙️  I make things with `py`|`js`|`hs`|`rs`|`jl`|`c`|`scala`
+- 🌱 I teach things about Programming, Data , Systems.
 
 
 <!--
